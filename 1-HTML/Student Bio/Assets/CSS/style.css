@@ -1,0 +1,14 @@
+.lesson {
+    width: 200px;
+    height: 100px;
+    color: orangered; 
+  }
+  
+.title {
+    color: blueviolet; 
+  }
+
+ #github {
+  color: blue;
+  background-color: black;
+ } 
